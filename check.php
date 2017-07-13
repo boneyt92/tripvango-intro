@@ -7,5 +7,6 @@ echo "Update 3";
 echo "Update 4";
 echo "Update 5";
 echo "Update 6";
+echo "Update 7";
 ?>
 
