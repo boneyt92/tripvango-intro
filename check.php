@@ -1,5 +1,5 @@
 <?php
 
-echo "PHP TEST FILE"
-echo "Update 1"
+echo "PHP TEST FILE";
+echo "Update 1";
 ?>
